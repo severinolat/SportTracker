@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="subtitle_marging">5dp</dimen>
+    <dimen name="title_marging">10dp</dimen>
+    <dimen name="searchcard_margin">16dp</dimen>
+    <dimen name="searchcard_radius">25dp</dimen>
+    <dimen name="searchcard_elevation">4dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="pading_40">40dp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_25">25sp</dimen>
+</resources>

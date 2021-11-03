@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sport Tracker</string>
+    <string name="home">Home</string>
+    <string name="fav">Favs</string>
+    <string name="categories">Categories</string>
+    <string name="live_scores">Live scores</string>
+    <string name="all_scores">All scores</string>
+    <string name="search_team">Search Team</string>
+    <string name="search">Search</string>
+    <string name="enter_to_search_here">Enter to search team here</string>
+
+</resources>
